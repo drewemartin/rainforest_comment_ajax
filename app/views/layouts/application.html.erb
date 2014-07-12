@@ -16,9 +16,6 @@
       <p id="alert"><%= flash[:alert] %></p>
     <% end %>
 
-
-<%= yield %>
-
 	<p>
 		<% if current_user %>
 
@@ -30,6 +27,8 @@
 
 		<% end %>
 	</p>
+
+<%= yield %>
 
 </body>
 </html>
