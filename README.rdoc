@@ -1,18 +1,18 @@
-Welcome to Rainforest w/ Ajax
+==Welcome to Rainforest w/ Ajax
 
 This is a project modelled off the popular site Amazon. 
 This version of a previously completed project utilizes 
 a search function. 
 
-Functionality Highlights
+==Functionality Highlights
 
 * Users can add posts w/out refreshing page (powered by jquery)
 
-Specs
+==Specs
 
 * Made with Ruby on Rails(infrastructure) 
 
-Creator
+==Creator
 
 * Drew Martin (Drew.E.Martin@gmail.com)
 
