@@ -6,7 +6,7 @@ a search function.
 
 Functionality Highlights
 
-* Users can search for projects by name (powered by jquery)
+* Users can add posts w/out refreshing page (powered by jquery)
 
 Specs
 
