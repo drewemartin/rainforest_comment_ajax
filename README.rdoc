@@ -10,7 +10,7 @@ a search function.
 
 ==Specs
 
-* Made with Ruby on Rails(infrastructure) 
+* Made with Ruby on Rails (infrastructure) 
 
 ==Creator
 
