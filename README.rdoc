@@ -2,7 +2,7 @@
 
 This is a project modelled off the popular site Amazon. 
 This version of a previously completed project utilizes 
-a search function. 
+a seamless comment function. 
 
 ==Functionality Highlights
 
